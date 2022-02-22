@@ -3,6 +3,7 @@
 	width: 100%;
 	height: 67px;
 	left: 0px;
+	align-items: center;
 	//top: 896px;
 
 	background: #111827;
@@ -33,10 +34,8 @@
 }
 
 .icon-footer {
-	margin-top: 10px;
-	margin-right: 5%;
-	margin-left: 5%;
-	font-size: 17px;
+	margin-right: 10px;
+	font-size: 14px;
 }
 
 .container-footer-left {
@@ -47,9 +46,10 @@
 .container-footer-right {
 	display: flex;
 	margin: 0 auto;
+	justify-content: space-between;
 }
 
 .item-footer {
 	display: flex;
-	margin-top: 10px;
+	margin-left: 20px;
 }

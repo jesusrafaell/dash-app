@@ -1,6 +1,5 @@
-import React from 'react';
-import '../../styles/layout/navbar.scss';
 import FormatAlignLeftIcon from '@mui/icons-material/FormatAlignLeft';
+import './styles/navbar.scss';
 
 function NavBar() {
 	return (

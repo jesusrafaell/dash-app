@@ -13,16 +13,16 @@ function Footer() {
 			</div>
 			<div className='container-footer-right'>
 				<div className='item-footer'>
-					<LanguageIcon className='color-light icon-footer' />
+					<LanguageIcon style={{ fontSize: '17px' }} className='color-light icon-footer' />
 					<span className='color-gray'>Website</span>
 				</div>
 
 				<div className='item-footer'>
-					<TelegramIcon className='color-light icon-footer' />
+					<TelegramIcon style={{ fontSize: '17px' }} className='color-light icon-footer' />
 					<span className='color-gray'>Telegram</span>
 				</div>
 				<div className='item-footer'>
-					<TwitterIcon className='color-light icon-footer' />
+					<TwitterIcon style={{ fontSize: '17px' }} className='color-light icon-footer' />
 					<span className='color-gray'>Twitter</span>
 				</div>
 			</div>
